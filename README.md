@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayça Aksoy</h1>
 <h3 align="center">A passionate developer who is interested in web development, data science, and chess 👀  </h3>
 
-- 🌱 I’m currently learning **.Net**
-
 - 📫 How to reach me **aycaaksoy2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
