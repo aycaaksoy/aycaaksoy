@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayça Aksoy</h1>
-<h3 align="center">A passionate developer who is interested in data engineering and analytics.  </h3>
 
 - 📫 How to reach me **aycaaksoy2000@gmail.com**
 
